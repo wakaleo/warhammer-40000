@@ -1,0 +1,1 @@
+Managing reference data such as weapon types, armour types,
